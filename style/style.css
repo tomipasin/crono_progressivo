@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.logo1 {
+ max-width: 250px;
+ margin-top: 20px;
+
+
+}
+
+.crono {
+    font-size: 1500%;
+    text-align: center;
+    font-family: 'Bebas Neue';
+    color:rgb(26, 80, 4);
+}
+
+.center {
+    padding-top: 10px;
+}
+
+#barraDeProgresso {
+    width: 100%;
+    background-color: gray;
+    align-content: center;
+    border-style: solid;
+    border-color: rgb(82, 82, 82);
+    border-radius: 10px;
+  }
+  
+  #barra {
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(to right, green , yellow, red) ;
+    
+    
+  }
+
+  .esquerda {
+    text-align: right;
+  }
+
+  .tempoSel {
+    font-size: 250%;
+    text-align: center;
+    font-family: 'Bebas Neue';
+  }
+
+ 
